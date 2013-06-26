@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "From",
+                "marker-size": "medium",
+                "marker-color": "000000",
+                "marker-symbol": "embassy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1.334694, 51.122428]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ending Point",
+                "marker-size": "medium",
+                "marker-color": "000000",
+                "marker-symbol": "embassy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1.840033, 50.970775]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Route"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [[1.334694, 51.122428], [1.840033, 50.970775]]
+            }
+        }
+    ]
+}
