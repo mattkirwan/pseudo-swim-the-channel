@@ -12,7 +12,7 @@
                 "Name": "Starting Point", 
                 "marker-color": "608341", 
                 "marker-size": "large", 
-                "marker-type": "embassy"
+                "marker-symbol": "embassy"
             }, 
             "type": "Feature"
         }, 
@@ -28,7 +28,7 @@
                 "Name": "Ending Point", 
                 "marker-color": "E32E30", 
                 "marker-size": "large", 
-                "marker-type": "embassy"
+                "marker-symbol": "embassy"
             }, 
             "type": "Feature"
         }
