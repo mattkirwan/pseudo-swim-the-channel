@@ -1,41 +1,38 @@
 {
-    "type": "FeatureCollection",
     "features": [
         {
-            "type": "Feature",
-            "properties": {
-                "name": "From",
-                "marker-size": "medium",
-                "marker-color": "000000",
-                "marker-symbol": "embassy"
-            },
             "geometry": {
-                "type": "Point",
-                "coordinates": [1.334694, 51.122428]
-            }
-        },
+                "coordinates": [
+                    "1.334694", 
+                    "51.122428"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Name": "Starting Point", 
+                "marker-color": "608341", 
+                "marker-size": "large", 
+                "marker-type": "embassy"
+            }, 
+            "type": "Feature"
+        }, 
         {
-            "type": "Feature",
-            "properties": {
-                "name": "Ending Point",
-                "marker-size": "medium",
-                "marker-color": "000000",
-                "marker-symbol": "embassy"
-            },
             "geometry": {
-                "type": "Point",
-                "coordinates": [1.840033, 50.970775]
-            }
-        },
-        {
-            "type": "Feature",
+                "coordinates": [
+                    "1.840033", 
+                    "50.970775"
+                ], 
+                "type": "Point"
+            }, 
             "properties": {
-                "name": "Route"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [[1.334694, 51.122428], [1.840033, 50.970775]]
-            }
+                "Name": "Ending Point", 
+                "marker-color": "E32E30", 
+                "marker-size": "large", 
+                "marker-type": "embassy"
+            }, 
+            "type": "Feature"
         }
-    ]
+    ], 
+    "type": "FeatureCollection"
 }
+
