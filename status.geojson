@@ -31,6 +31,7 @@
                 "Name": "Swimming Session", 
                 "Number": 1, 
                 "Speed": "2.3684KPH", 
+                "TotalDistance": "0.75KM", 
                 "marker-color": "000000", 
                 "marker-size": "medium", 
                 "marker-symbol": "swimming"
@@ -52,6 +53,7 @@
                 "Name": "Swimming Session", 
                 "Number": 2, 
                 "Speed": "2.4615KPH", 
+                "TotalDistance": "1.55KM", 
                 "marker-color": "000000", 
                 "marker-size": "medium", 
                 "marker-symbol": "swimming"
@@ -73,6 +75,7 @@
                 "Name": "Swimming Session", 
                 "Number": 3, 
                 "Speed": "2.3684KPH", 
+                "TotalDistance": "2.3KM", 
                 "marker-color": "000000", 
                 "marker-size": "medium", 
                 "marker-symbol": "swimming"
