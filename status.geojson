@@ -67,8 +67,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "DateTimeEnd": "2013-07-01 12:08:00", 
-                "DateTimeStart": "2013-07-01 11:49:00", 
+                "DateTimeEnd": "2013-07-03 12:08:00", 
+                "DateTimeStart": "2013-07-03 11:49:00", 
                 "Distance": 0.75, 
                 "Name": "Swimming Session", 
                 "Number": 3, 
