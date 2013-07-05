@@ -107,6 +107,28 @@
         {
             "geometry": {
                 "coordinates": [
+                    1.3834028121704, 
+                    51.107856717846
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "DateTimeEnd": "2013-07-05 11:48:30", 
+                "DateTimeStart": "2013-07-05 11:31:00", 
+                "Distance": 0.75, 
+                "Name": "Swimming Session", 
+                "Number": 5, 
+                "Speed": "2.5714KPH", 
+                "TotalDistance": "3.85KM", 
+                "marker-color": "000000", 
+                "marker-size": "medium", 
+                "marker-symbol": "swimming"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     "1.840033", 
                     "50.970775"
                 ], 
