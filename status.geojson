@@ -32,6 +32,7 @@
                 "Number": 1, 
                 "Speed": "2.3684KPH", 
                 "TotalDistance": "0.75KM", 
+                "TotalTime": "00:19:00", 
                 "marker-color": "000000", 
                 "marker-size": "medium", 
                 "marker-symbol": "swimming"
@@ -54,6 +55,7 @@
                 "Number": 2, 
                 "Speed": "2.4615KPH", 
                 "TotalDistance": "1.55KM", 
+                "TotalTime": "00:38:30", 
                 "marker-color": "000000", 
                 "marker-size": "medium", 
                 "marker-symbol": "swimming"
@@ -76,6 +78,7 @@
                 "Number": 3, 
                 "Speed": "2.3684KPH", 
                 "TotalDistance": "2.3KM", 
+                "TotalTime": "00:57:30", 
                 "marker-color": "000000", 
                 "marker-size": "medium", 
                 "marker-symbol": "swimming"
@@ -98,6 +101,7 @@
                 "Number": 4, 
                 "Speed": "2.5263KPH", 
                 "TotalDistance": "3.1KM", 
+                "TotalTime": "01:16:30", 
                 "marker-color": "000000", 
                 "marker-size": "medium", 
                 "marker-symbol": "swimming"
@@ -120,6 +124,7 @@
                 "Number": 5, 
                 "Speed": "2.5714KPH", 
                 "TotalDistance": "3.85KM", 
+                "TotalTime": "01:34:00", 
                 "marker-color": "000000", 
                 "marker-size": "medium", 
                 "marker-symbol": "swimming"
@@ -142,6 +147,30 @@
                 "Number": 6, 
                 "Speed": "2.5932KPH", 
                 "TotalDistance": "4.7KM", 
+                "TotalTime": "01:53:40", 
+                "marker-color": "000000", 
+                "marker-size": "medium", 
+                "marker-symbol": "swimming"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    1.4036454092813, 
+                    51.101800945283
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "DateTimeEnd": "2013-07-10 12:03:40", 
+                "DateTimeStart": "2013-07-10 11:44:00", 
+                "Distance": 0.75, 
+                "Name": "Swimming Session", 
+                "Number": 7, 
+                "Speed": "2.2881KPH", 
+                "TotalDistance": "5.45KM", 
+                "TotalTime": "02:13:20", 
                 "marker-color": "000000", 
                 "marker-size": "medium", 
                 "marker-symbol": "swimming"
